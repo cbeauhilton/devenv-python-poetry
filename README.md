@@ -3,7 +3,7 @@
 This is a template for Python projects
 managed by Poetry (`pyproject.toml`),
 and further declaratively managed with Nix flakes,
-using the delightful [devenv](https://devenv.sh/)
+using the delightful [devenv](https://devenv.sh/).
 
 I'm using this on NixOS, 
 where it all fits very nicely together,
